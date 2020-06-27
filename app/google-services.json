@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566326613021",
+    "firebase_url": "https://esp-data-logger-38e76.firebaseio.com",
+    "project_id": "esp-data-logger-38e76",
+    "storage_bucket": "esp-data-logger-38e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566326613021:android:fa04a50c225cf1153d22f4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_esp_data_logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566326613021-vf912nfrie3t1qdmgsh7js3pkecmfq8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtv_-6KwXZv3-UDzzcXkrz3TncM-RrErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566326613021-vf912nfrie3t1qdmgsh7js3pkecmfq8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
